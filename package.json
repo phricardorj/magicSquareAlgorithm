@@ -1,0 +1,26 @@
+{
+  "name": "generator-and-validator-magic-square",
+  "version": "1.0.0",
+  "description": "My algorithm: validating and generating magic square",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phricardorj/magicSquareAlgorithm.git"
+  },
+  "keywords": [
+    "magicsquare",
+    "validator",
+    "generator"
+  ],
+  "author": "Pedro Ricardo (@phricardorj)",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/phricardorj/magicSquareAlgorithm/issues"
+  },
+  "homepage": "https://github.com/phricardorj/magicSquareAlgorithm#readme"
+}
